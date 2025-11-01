@@ -1,0 +1,51 @@
+employee_id,department,region,education,gender,recruitment_channel,no_of_trainings,age,length_of_service,KPIs_met_more_than_80,awards_won,avg_training_score
+2001,Sales & Marketing,region_2,Bachelors,m,sourcing,2,25,3,1,0,65
+2002,Operations,region_7,Masters & above,f,other,1,45,18,0,0,58
+2003,Technology,region_13,Bachelors,m,sourcing,1,31,5,1,1,90
+2004,Sales & Marketing,region_22,Bachelors,f,referred,1,28,4,0,0,61
+2005,Operations,region_4,Below Secondary,m,other,2,39,11,0,0,48
+2006,Technology,region_15,Masters & above,f,sourcing,1,40,10,1,1,87
+2007,Sales & Marketing,region_17,Bachelors,m,sourcing,3,33,7,0,0,63
+2008,Operations,region_26,Bachelors,f,other,1,29,5,1,0,59
+2009,Technology,region_2,Bachelors,m,referred,1,37,8,0,0,82
+2010,Sales & Marketing,region_11,Bachelors,f,sourcing,1,26,2,0,0,50
+2011,Operations,region_19,Bachelors,m,sourcing,1,34,6,0,0,54
+2012,Technology,region_20,Masters & above,f,other,1,51,20,1,0,89
+2013,Sales & Marketing,region_23,Bachelors,m,referred,2,29,5,1,0,69
+2014,Operations,region_25,Below Secondary,f,sourcing,1,36,9,0,0,52
+2015,Technology,region_27,Bachelors,m,sourcing,1,28,3,1,0,80
+2016,Sales & Marketing,region_28,Masters & above,f,other,1,42,11,0,1,71
+2017,Operations,region_29,Bachelors,m,other,1,30,4,1,0,60
+2018,Technology,region_31,Bachelors,f,referred,2,27,5,1,0,83
+2019,Sales & Marketing,region_32,Bachelors,m,sourcing,1,50,21,1,0,70
+2020,Operations,region_5,Bachelors,f,sourcing,1,33,6,0,0,57
+2021,Technology,region_6,Masters & above,m,other,1,44,15,1,1,93
+2022,Sales & Marketing,region_8,Bachelors,f,referred,2,35,7,0,0,64
+2023,Operations,region_10,Bachelors,m,sourcing,1,39,12,1,0,56
+2024,Technology,region_12,Bachelors,f,sourcing,1,24,2,0,0,79
+2025,Sales & Marketing,region_14,Masters & above,m,other,1,48,19,0,1,72
+2026,Operations,region_16,Below Secondary,f,referred,3,31,5,0,0,51
+2027,Technology,region_18,Bachelors,m,sourcing,1,32,6,1,0,86
+2028,Sales & Marketing,region_21,Bachelors,f,sourcing,1,29,3,1,0,66
+2029,Operations,region_24,Bachelors,m,other,1,41,13,0,0,55
+2030,Technology,region_30,Masters & above,f,referred,1,38,10,1,0,91
+2031,Finance,region_2,Bachelors,f,sourcing,2,30,5,1,0,75
+2032,Analytics,region_13,Masters & above,m,other,1,41,11,1,1,94
+2033,Procurement,region_7,Bachelors,f,sourcing,1,28,3,0,0,70
+2034,HR,region_22,Bachelors,m,referred,1,36,7,0,0,53
+2035,Legal,region_4,Masters & above,f,other,1,40,10,1,0,62
+2036,R&D,region_11,Masters & above,m,sourcing,3,52,25,0,0,81
+2037,Sales & Marketing,region_15,Below Secondary,m,sourcing,4,23,1,0,0,49
+2038,Operations,region_17,Bachelors,f,other,1,35,8,1,1,60
+2039,Technology,region_2,Masters & above,m,referred,1,29,6,1,0,88
+2040,Sales & Marketing,region_19,Bachelors,f,sourcing,1,33,4,1,0,67
+2041,Operations,region_23,Bachelors,m,other,1,37,9,0,0,54
+2042,Technology,region_26,Bachelors,f,sourcing,2,28,5,1,1,92
+2043,Sales & Marketing,region_29,Masters & above,m,referred,1,46,16,1,0,73
+2044,Operations,region_31,Below Secondary,f,sourcing,1,31,3,0,0,58
+2045,Technology,region_7,Bachelors,m,other,1,39,12,0,0,84
+2046,Analytics,region_22,Bachelors,f,sourcing,1,31,6,1,0,91
+2047,Sales & Marketing,region_4,Bachelors,m,sourcing,2,27,3,1,0,68
+2048,Operations,region_13,Masters & above,f,referred,1,43,14,1,1,59
+2049,Technology,region_10,Masters & above,m,other,1,55,28,1,1,89
+2050,HR,region_2,Bachelors,f,sourcing,1,29,2,0,0,52
